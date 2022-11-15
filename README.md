@@ -10,7 +10,7 @@ The ALU consists of indivually designed components that include:
 5) Shifter Unit
 6) MUX
 
-The AlU takes two unisgned 32-bit binary inputs A and B, and is able to perform the following operations:
+The ALU takes two unisgned 32-bit binary inputs A and B, and is able to perform the following operations:
 - Addition, increment, decrement and transfer (arithmetic operations)
 - AND, OR, NOT, XOR (logical operations)
 - Right shift, left shift (shift operations) 
